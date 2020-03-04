@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class User implements Serializable {
 
-    private static final long serialVersionUID = 8884869193829887094L;
+    private static final long serialVersionUID = -3709805739060050380L;
 
     private Long id;
     private String userName;
@@ -12,7 +12,6 @@ public class User implements Serializable {
     private String email;
     private String nickname;
     private String regTime;
-
 
     public User() {
         super();
@@ -26,7 +25,6 @@ public class User implements Serializable {
         this.userName = userName;
         this.regTime = regTime;
     }
-
 
     public Long getId() {
         return id;
@@ -87,7 +85,4 @@ public class User implements Serializable {
                 ", regTime='" + regTime + '\'' +
                 '}';
     }
-
-
-
 }
