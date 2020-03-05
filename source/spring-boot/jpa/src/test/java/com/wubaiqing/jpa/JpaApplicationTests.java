@@ -26,4 +26,26 @@ class JpaApplicationTests {
         Assertions.assertEquals(1, userRepository.findAll().size());
     }
 
+    @Test
+    public void testBaseQuery() throws Exception {
+        User user = new User("wubaiqing", "wubaiqing@vip.qq.com");
+        userRepository.findAll();
+        userRepository.save(user);
+
+        user.setId(1L);
+        userRepository.delete(user);
+        Assertions.assertEquals(userRepository.count(), 0);
+    }
+
+    @Test
+    public void testFindBy() throws Exception {
+        User user = new User("wubaiqing", "wubaiqing@vip.qq.com");
+
+        userRepository.save(user);
+
+        User userEntity = userRepository.findByUserName("wubaiqing");
+        Assertions.assertEquals("wubaiqing", userEntity.getUserName());
+        Assertions.assertEquals(1, userRepository.countByUserName("wubaiqing"));
+    }
+
 }
