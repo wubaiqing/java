@@ -12,7 +12,7 @@
 
 2020.3.5 学习 Spring Boot 使用 [JPA](./source/spring-boot/jpa/)、[queryDSL](./source/spring-boot/querysdl/)、[MyBatis](./source/spring-boot/mybatis/) 服务。
 
-2020.3.6 学习 Spring Boot 使用 [MyBatis 多数据源](./source/spring-boot/mybatis-multi/)、[RabbitMQ](./source/spring-boot/rabbitmq/) 服务。
+2020.3.6 学习 Spring Boot 使用 [MyBatis 多数据源](./source/spring-boot/mybatis-multi/)、[RabbitMQ](./source/spring-boot/rabbitmq/)、[Schedule](./source/spring-boot/schedule) 服务。
 
 ## 学习资源
 
