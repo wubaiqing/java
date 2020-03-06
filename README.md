@@ -7,4 +7,4 @@
 2020.3.5 学习 Spring Boot 使用 [JPA](./source/spring-boot/jpa/)、[queryDSL](./source/spring-boot/querysdl/)、[MyBatis](./source/spring-boot/mybatis/) 服务。
 
 # 学习资源
-主要是跟《纯洁的微笑》学习线路来走的，Spring Boot 为最新版。
+主要是跟《[纯洁的微笑](http://www.ityouknow.com/spring-boot.html)》学习路线，Spring Boot 版本为最新。
