@@ -6,10 +6,10 @@ import org.springframework.stereotype.Component;
 
 @Component
 @RabbitListener(queues = "wubaiqing")
-public class HelloListener {
+public class ShopListener {
 
     @RabbitHandler
     public void process(String context) {
-        System.out.println("Receiver: " + context);
+        System.out.println("Listener1: " + context);
     }
 }

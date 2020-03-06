@@ -4,16 +4,14 @@ import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import java.util.Date;
-
 @Component
-public class HelloSender {
+public class CitySender {
 
     @Autowired
     private AmqpTemplate amqpTemplate;
 
-    public void send() {
-        String context = "hello" + new Date();
+    public void send(int num) {
+        String context = "City" + num;
         System.out.println("Sender: " + context);
         amqpTemplate.convertAndSend("wubaiqing", context);
     }
