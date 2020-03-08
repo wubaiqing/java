@@ -14,6 +14,8 @@
 
 2020.3.6 学习 Spring Boot 使用 [MyBatis 多数据源](./source/spring-boot/mybatis-multi/)、[RabbitMQ](./source/spring-boot/rabbitmq/)、[Schedule](./source/spring-boot/schedule) 服务。
 
+2020.3.7 学习 Spring Boot 使用 [邮件服务](./source/spring-boot/email/) 服务。
+
 ## 学习资源
 
 主要是跟《[纯洁的微笑](http://www.ityouknow.com/spring-boot.html)》学习路线，Spring Boot 版本为最新。

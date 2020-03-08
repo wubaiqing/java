@@ -1,0 +1,7 @@
+version: '1'
+services:
+  payment:
+    run:
+      id: 'wechat'
+      name: '微信测试'
+      command: '--junit5 com.wubaiqing.payment.wechat.test'
