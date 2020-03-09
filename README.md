@@ -16,6 +16,8 @@
 
 2020.3.8 学习 Spring Boot 使用 [邮件服务](./source/spring-boot/email/)、[上传文件](./source/spring-boot/upload/) 服务。
 
+2020.3.9 学习 Spring Boot 使用 [Actuator](./source/spring-boot/actuator/)、[Admin](./source/spring-boot/upload/) 服务。
+
 ## 学习资源
 
 主要是跟《[纯洁的微笑](http://www.ityouknow.com/spring-boot.html)》学习路线，Spring Boot 版本为最新。
