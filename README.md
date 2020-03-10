@@ -18,6 +18,8 @@
 
 2020.3.9 学习 Spring Boot 使用 [Actuator](./source/spring-boot/actuator/)、[Admin Server](./source/spring-boot/admin-serve/)、[Admin Client](./source/spring-boot/admin-client/)、[Banner](./source/spring-boot/banner/)、[Docker](./source/spring-boot/docker/)、[CommandLine](./source/spring-boot/command/)、[Memcached](./source/spring-boot/memcached/) 服务。
 
+2020.3.10 学习 Spring Boot 使用 [WebFlux](./source/spring-boot/webflux/) 服务。
+
 ## 学习资源
 
 主要是跟《[纯洁的微笑](http://www.ityouknow.com/spring-boot.html)》学习路线，Spring Boot 版本为最新。
