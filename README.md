@@ -26,4 +26,4 @@
 
 ## 学习资源
 
-主要是跟《[纯洁的微笑](http://www.ityouknow.com/spring-boot.html)》学习路线，Spring Boot 版本为最新。
+主要是跟《[纯洁的微笑 Spring Boot](http://www.ityouknow.com/spring-boot.html)》、《[纯洁的微笑 Spring Cloud](http://www.ityouknow.com/spring-cloud.html)》学习路线。
