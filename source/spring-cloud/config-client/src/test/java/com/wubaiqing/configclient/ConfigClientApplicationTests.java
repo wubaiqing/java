@@ -1,10 +1,10 @@
-package com.wubaiqing.config;
+package com.wubaiqing.configclient;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConfigApplicationTests {
+class ConfigClientApplicationTests {
 
     @Test
     void contextLoads() {

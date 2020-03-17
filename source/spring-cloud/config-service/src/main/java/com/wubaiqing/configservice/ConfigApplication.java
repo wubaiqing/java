@@ -1,4 +1,4 @@
-package com.wubaiqing.config;
+package com.wubaiqing.configservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
