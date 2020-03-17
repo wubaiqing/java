@@ -27,7 +27,7 @@
 
 2020.3.12 学习 Spring Cloud 使用 [Eureka](./source/spring-spring-cloud/eureka/) 服务。
 
-2020.3.17 学习 Spring Cloud 使用 [Eureka-Provider](./source/spring-cloud/eureka-provider/)、[Eureka-Consumer](./source/spring-cloud/eureka-consumer/)、[Eureka-Consumer-Hystrix](./source/spring-cloud/eureka-consumer-hystrix/)、[Eureka-Consumer-Hystrix-DashBoard](./source/spring-cloud/eureka-consumer-hystrix-dashboard/)、[Spring-Cloud-Config-Service](./source/spring-cloud/config-service/)、[Spring-Cloud-Config-Client](./source/spring-cloud/config-client/)、[Spring-Cloud-Config-高可用](./source/spring-cloud/config-server-eureka)服务。
+2020.3.17 学习 Spring Cloud 使用 [Eureka-Provider](./source/spring-cloud/eureka-provider/)、[Eureka-Consumer](./source/spring-cloud/eureka-consumer/)、[Eureka-Consumer-Hystrix](./source/spring-cloud/eureka-consumer-hystrix/)、[Eureka-Consumer-Hystrix-DashBoard](./source/spring-cloud/eureka-consumer-hystrix-dashboard/)、[Spring-Cloud-Config-Service](./source/spring-cloud/config-service/)、[Spring-Cloud-Config-Client](./source/spring-cloud/config-client/)、[Spring-Cloud-Config-高可用](./source/spring-cloud/config-service-eureka)服务。
 
 ## 学习资源
 
