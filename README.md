@@ -8,6 +8,7 @@
 
 ## 学习记录
 
+### Spring Boot
 2020.3.4 学习 Spring Boot 配合 [Redis](./source/spring-boot/redis/) 服务。  
 
 2020.3.5 学习 Spring Boot 使用 [JPA](./source/spring-boot/jpa/)、[queryDSL](./source/spring-boot/querysdl/)、[MyBatis](./source/spring-boot/mybatis/) 服务。
@@ -21,6 +22,8 @@
 2020.3.10 学习 Spring Boot 使用 [WebFlux（没研究明白，不了解场景，暂时搁置）](./source/spring-boot/webflux/) 服务。
 
 2020.3.11 学习 Spring Boot 使用 [MyBatis Plus](./source/spring-boot/mybatis-plus/) 服务。
+
+### Spring Cloud
 
 2020.3.12 学习 Spring Cloud 使用 [Eureka](./source/spring-spring-cloud/eureka/) 服务。
 
