@@ -1,0 +1,17 @@
+server:
+  port: 8003
+spring:
+  devtools:
+    add-properties: false
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/wubaiqing/java.git
+          search-paths: source/spring-cloud/config-repo
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8000/eureka/
