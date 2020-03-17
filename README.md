@@ -23,6 +23,7 @@
 2020.3.11 学习 Spring Boot 使用 [MyBatis Plus](./source/spring-boot/mybatis-plus/) 服务。
 
 2020.3.12 学习 Spring Cloud 使用 [Eureka](./source/spring-spring-cloud/eureka/) 服务。
+2020.3.17 学习 Spring Cloud 使用 [Eureka-Provider](./source/spring-cloud/eureka-provider/)、[Eureka-Consumer](./source/spring-cloud/eureka-consumer/) 服务。
 
 ## 学习资源
 
